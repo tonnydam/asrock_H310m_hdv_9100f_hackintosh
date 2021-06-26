@@ -3,6 +3,7 @@ Hackintosh for Asrock H310m hdv
  - i3 9100F
  - RX560 / RX580
  - Opencore 0.6.8
+ - Big Sur
  - everything work well
  - added power managament for GPU and CPU
 
